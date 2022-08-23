@@ -72,3 +72,15 @@ a{
 video{
     width: 100%;
 }
+#cardsection{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+card{
+    width: 400px;
+    margin: 10px;
+
+}
